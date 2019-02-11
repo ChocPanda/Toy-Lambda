@@ -1,0 +1,16 @@
+{
+  "name": "object-email",
+  "version": "1.0.0",
+  "description": "A lambda function for sending emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Searle",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.399.0",
+    "eslint": "^5.13.0",
+    "nodemailer": "^5.1.1"
+  }
+}

@@ -1,0 +1,16 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Build outputs
+dist
+node_modules
+*outputs.json
+*.log
+coverage
+
+# Please do not add e.g. editor specific ignores here,
+# please use the .git/info/excludes file to exclude anything personal to your setup
